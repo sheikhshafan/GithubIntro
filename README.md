@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sheikhshafan
 - 👀 I like eating, cooking, baking and did I mentioned eating :)
-- 🌱 I’m currently learning reacte.js
-- 💞️ I’m looking to collaborate on C, C#, C++, HTML5, JS, Bootstrap, Opencart, Wordpress, Shopify, QuickBooks and lot more. . .
+- 🌱 I’m currently learning Flutter//DART & Firebase.
+- 💞️ I’m looking to collaborate on C, C#, C++, HTML5, JS, Bootstrap, Opencart, Wordpress, Shopify and lot more. . .
 - 📫 How to reach me ... lemme think . . . Ha'w bou't you go to google.com, type in "sheikh shafan" and Voila!
 
 <!---
