@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @sheikhshafan
-- 👀 I like eating, cooking, baking and did I mentioned eating :)
-- 🌱 I’m currently learning Flutter//DART & Firebase.
-- 💞️ I’m looking to collaborate on C, C#, C++, HTML5, JS, Bootstrap, Opencart, Wordpress, Shopify and lot more. . .
-- 📫 How to reach me ... lemme think . . . Ha'w bou't you go to google.com, type in "sheikh shafan" and Voila!
-
-<!---
-sheikhshafan/sheikhshafan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello, this is Sheikh Shafan.
+- 👀 I like eating, cooking, and baking. did I mention eating :)
+- 🌱 I'm currently learning React.JS
+- 💞️ I'm looking to collaborate on C, C#, C++, HTML5, JS, Bootstrap, Opencart, WordPress, Shopify and a lot more. . .
+- 📫 How to reach me ... lemme think . . . Haw about you go to google.com, type in "Sheikh Shafan" and Voila!
